@@ -1,21 +1,21 @@
 # João Flávio Pedroso do Carmo
 
-**Computer Science student · Backend-focused · Building foundations**
+**Software Engineering · Backend-focused · Building foundations**
 
 ---
 
-I'm a Computer Science student at UFC Russas, currently focused on backend development.
-I study consistently, care about writing clean and organized code, and I'm building my path toward becoming a solid backend developer.
+I'm a software engineering student at UFC Russas, currently focused on backend development.
+I study consistently, care about writing clean and organized code, and I'm building my path toward becoming a solid software engineer.
 
 ---
 
 ## About Me
 
-- 🎓 Computer Science — Universidade Federal do Ceará (UFC Russas)
+- 🎓 Software Engineering — Universidade Federal do Ceará (UFC Russas)
 - 💻 Currently focused on **backend development** with Java
 - 🔍 Interested in **APIs, software architecture, and backend systems**
 - 📈 Long-term goal: grow into a full stack developer with strong backend foundations
-- 🤝 Active member and **Marketing Coordinator** at [Include Jr](https://github.com) — Junior Enterprise of UFC Russas
+- 🤝 Active member and **Marketing Coordinator** at [Include Jr]([https://github.com](https://www.linkedin.com/company/include-jr/posts/?feedView=all)) — Junior Enterprise of UFC Russas
 
 ---
 
@@ -26,7 +26,7 @@ I study consistently, care about writing clean and organized code, and I'm build
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-### Have worked with / Basic contact
+### Have worked with 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
