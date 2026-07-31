@@ -16,7 +16,7 @@ At the moment, I'm working mainly with **Java** and **C#**, building practical e
 - 💻 Currently working with **Java** and **C#**
 - 🔍 Interested in backend development, APIs and software architecture
 - 📈 Long-term goal: become a backend engineer with solid engineering fundamentals
-- 🤝 Marketing Coordinator at Include Jr — Junior Enterprise of UFC Russas
+- 🤝 Backend developer and Marketing Coordinator at Include Jr — Junior Enterprise of UFC Russas
 
 ---
 
