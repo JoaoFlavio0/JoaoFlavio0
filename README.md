@@ -12,11 +12,11 @@ At the moment, I'm working mainly with **Java** and **C#**, building practical e
 
 ## About Me
 
-- 🎓 Software Engineering — Universidade Federal do Ceará (UFC Russas)
+- 🎓 Software Engineering — Universidade Federal do Ceará (UFC)
 - 💻 Currently working with **Java** and **C#**
 - 🔍 Interested in backend development, APIs and software architecture
 - 📈 Long-term goal: become a backend engineer with solid engineering fundamentals
-- 🤝 Backend developer and Marketing Coordinator at Include Jr — Junior Enterprise of UFC Russas
+- 🤝 Backend developer and Marketing Coordinator at Include Jr — Junior Enterprise of UFC 
 
 ---
 
