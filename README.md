@@ -4,7 +4,7 @@
 
 ---
 
-I'm a Software Engineering student at UFC Russas, currently focused on backend development.
+I'm a Software Engineering student at the Federal University of Ceará (UFC), currently focused on backend development.
 
 At the moment, I'm working mainly with **Java** and **C#**, building practical experience through university projects and the Junior Enterprise while continuously strengthening my software engineering fundamentals.
 
