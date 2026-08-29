@@ -38,8 +38,8 @@ At the moment, I'm working mainly with **Java** and **C#**, building practical e
 
 ### Include Jr — Junior Enterprise · UFC Russas
 
-- Marketing Coordinator
 - Backend Developer
+- Marketing Coordinator
 - Participating in backend development projects
 - Working in collaborative teams with real project workflows
 
